@@ -54,13 +54,13 @@ function Login() {
           </button>
 
           <div className="flex items-center gap-4">
-            <div className="h-[1px] bg-gray-700 w-full"></div>
+            <div className="h-px bg-gray-700 w-full"></div>
 
             <span className="text-gray-500 text-sm">
               OR
             </span>
 
-            <div className="h-[1px] bg-gray-700 w-full"></div>
+            <div className="h-px bg-gray-700 w-full"></div>
           </div>
 
           <button
